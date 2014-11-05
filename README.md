@@ -6,7 +6,7 @@ Plugin to YOURLS URL-shortener that will use the filename as title if its not a 
 Usage
 ===============
 
-Create check-url directory in /user/
+Create check-url directory in /user/plugins/
 Place the plugin.php file in check-url directory
 Add this to config.php and add your accepted files/extensions you want the real titles for:
 
